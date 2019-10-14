@@ -2,4 +2,4 @@
 
 Read the tutorial
 
-https://kodnito.com/post/deploy-jakarta-ee-application-to-kubernetes
+https://kodnito.com/posts/deploy-jakarta-ee-application-to-kubernetes
